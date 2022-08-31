@@ -1,0 +1,6 @@
+rootProject.name = 'multiproject'
+
+include 'commons'
+include 'foodAdapters'
+include 'app'
+
